@@ -1,8 +1,8 @@
 
 --
--- User: `CNG443user`
+-- User: `FirstUser`
 --
-CREATE USER IF NOT EXISTS 'cng443user'@'localhost' IDENTIFIED BY '1234';
+CREATE USER IF NOT EXISTS 'FirstUser'@'localhost' IDENTIFIED BY '1234';
 
 --
 -- Database: `FarmAppDB`
@@ -12,7 +12,7 @@ CREATE DATABASE IF NOT EXISTS `FarmAppDB` DEFAULT CHARACTER SET utf8 COLLATE utf
 --
 -- Give all privileges to CNG443user on this database
 --
-GRANT ALL PRIVILEGES ON `FarmAppDB`.* TO 'cng443user'@'localhost';
+GRANT ALL PRIVILEGES ON `FarmAppDB`.* TO 'FirstUser'@'localhost';
 
 
 --
