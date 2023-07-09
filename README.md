@@ -8,3 +8,5 @@ This project had three aims:
 To learn how to connect a Java application to a backend database;
 To learn how to use part of the object serialization and Java Security API.
 To learn how to implement multithreading.
+
+This project is developed with the inline of one of my school projects given by my instructor Yeliz Yeşilada at METU NCC.
